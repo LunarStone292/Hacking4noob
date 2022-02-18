@@ -1,0 +1,13 @@
+<settings>
+  <ListenPort>4782</ListenPort>
+  <IPv6Support>False</IPv6Support>
+  <AutoListen>True</AutoListen>
+  <ShowPopup>True</ShowPopup>
+  <UseUPnP>False</UseUPnP>
+  <ShowToolTip>False</ShowToolTip>
+  <EnableNoIPUpdater>True</EnableNoIPUpdater>
+  <NoIPHost>dggd.ddns.net</NoIPHost>
+  <NoIPUsername>r.nicolo07@gmail.com</NoIPUsername>
+  <NoIPPassword>Nicolo07!</NoIPPassword>
+  <ReverseProxyPort>3128</ReverseProxyPort>
+</settings>

